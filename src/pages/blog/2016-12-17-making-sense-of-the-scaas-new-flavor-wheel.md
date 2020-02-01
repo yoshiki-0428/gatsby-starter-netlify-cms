@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: もももも
-date: 2016-12-17T15:04:10.000Z
+date: 2016-12-20T15:04:10.000Z
 description: これはももかの記事
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
