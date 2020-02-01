@@ -1,0 +1,36 @@
+---
+templateKey: blog-post
+title: テスト２
+date: 2020-02-01T05:54:57.282Z
+description: テスト記事
+featuredpost: true
+featuredimage: /img/apple-touch-icon.png
+tags:
+  - test
+  - test2
+---
+![コーヒー](/img/blog-index.jpg "あああ")
+
+# 記事投稿してみた
+
+# 見出し1
+
+## 見出し2
+
+* その１
+* その2
+* その3
+
+## 見出し3
+
+# 記事投稿してみた
+
+# 見出し1
+
+## 見出し2
+
+* その１
+* その2
+* その3
+
+## 見出し3
